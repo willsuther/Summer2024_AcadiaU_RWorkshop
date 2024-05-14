@@ -1,55 +1,34 @@
-# Introduction to RStudio, Spring 2024
+# Statistical Analysis in RStudio, Summer 2024
 
-## Module 1: Introduction to R and RStudio
+## Module 1: TBD
 Learning Objectives:
 
-* Navigate RStudio
-* Define basic programming terms
-* Idenitfy common data structures and data classes
-* Apply functions to accomplish tasks in R
-* Demonstarte best practices of organizing code
+* TBD
 
 Associated Files:
 
-* ```1-introduction_BLANK.R``` includes an outline and can be used to code along with the instructor, fill in the blank style (recommended)
-* ```1-introduction.R``` includes notes and code
+* TBD
 
-## Module 2: Best Practices of Tidy Data
+## Module 2: TBD
 Learning Objectives:
 
-* List characteristics of 'tidy data'
-* Workng with data in multiple file formats
-* Evaluate files for tidiness
-* Identify data classess
-* Describe best practices of dealing with missing data
+* TBD
+Associated Files:
+
+* TBD
+## Module 3: TBD
+Learning Objectives:
+
+* TBD
 
 Associated Files:
 
-* ```messy.xlsx``` a spreadsheet that demonstrates poor practices of data entry and storage
-* ```clean.xlsx``` a spreadsheet that demonstrates best practices of data entry and storage
-## Module 3: Data Wrangling
+* TBD
+## Module 4: TBD
 Learning Objectives:
 
-* Investigate the tidyverse in RStudio
-* Apply {dplyr} functions to filter/subset data frames
-* Apply {dplyr} functions to modify data frames
-* Recognize {dplyr} pipeline syntax
-* Create customized data summary tables
+* TBD
 
 Associated Files:
 
-* ```3-data_wrangling_BLANK.R``` includes an outline and can be used to code along with the instructor, fill in the blank style (recommended)
-* ```3-data_wrangling.R``` includes notes and code
-* ```data_tbd.csv``` dataset to be used in the module
-## Module 4: Data Visualization
-Learning Objectives:
-
-* Describe the layered grammar of graphics
-* Recognize {ggplot2} syntax and functions
-* Create high quality scatterplots, boxplots, and histograms using {ggplot2} functions
-
-Associated Files:
-
-* ```4-data_visualization_BLANK.R``` includes an outline and can be used to code along with the instructor, fill in the blank style (recommended)
-* ```4-data_visualization.R``` includes notes and code
-* ```target_viz.PNG``` is a plot used during an excercise
+* TBD
